@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{920AE40B-49EA-42D9-B522-2C295AEF4B95}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{488529E5-31E8-4C6A-92BD-97FE720C82E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{6920AA28-49F8-463D-A74C-E9112D88DD43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetAuth.Api", "src\LearningJwt.Api\DotnetAuth.Api.csproj", "{1B903963-ECD7-479A-9D14-4E10E463F0B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetAuth.Domain", "src\LearningJwt.Domain\DotnetAuth.Domain.csproj", "{80B76784-2588-4FDB-84C4-75F077111D1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B903963-ECD7-479A-9D14-4E10E463F0B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B903963-ECD7-479A-9D14-4E10E463F0B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B903963-ECD7-479A-9D14-4E10E463F0B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B903963-ECD7-479A-9D14-4E10E463F0B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80B76784-2588-4FDB-84C4-75F077111D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80B76784-2588-4FDB-84C4-75F077111D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80B76784-2588-4FDB-84C4-75F077111D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80B76784-2588-4FDB-84C4-75F077111D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1B903963-ECD7-479A-9D14-4E10E463F0B5} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{80B76784-2588-4FDB-84C4-75F077111D1B} = {488529E5-31E8-4C6A-92BD-97FE720C82E6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FE77019-4F12-4836-BF14-74276ABEC789}
+	EndGlobalSection
+EndGlobal

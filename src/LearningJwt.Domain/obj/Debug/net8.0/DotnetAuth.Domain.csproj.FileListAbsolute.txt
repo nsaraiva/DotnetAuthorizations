@@ -1,0 +1,12 @@
+C:\Users\nsara\source\repos\DotnetAuth\src\LearningJwt.Domain\bin\Debug\net8.0\DotnetAuth.Domain.deps.json
+C:\Users\nsara\source\repos\DotnetAuth\src\LearningJwt.Domain\bin\Debug\net8.0\DotnetAuth.Domain.dll
+C:\Users\nsara\source\repos\DotnetAuth\src\LearningJwt.Domain\bin\Debug\net8.0\DotnetAuth.Domain.pdb
+C:\Users\nsara\source\repos\DotnetAuth\src\LearningJwt.Domain\obj\Debug\net8.0\DotnetAuth.Domain.csproj.AssemblyReference.cache
+C:\Users\nsara\source\repos\DotnetAuth\src\LearningJwt.Domain\obj\Debug\net8.0\DotnetAuth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsara\source\repos\DotnetAuth\src\LearningJwt.Domain\obj\Debug\net8.0\DotnetAuth.Domain.AssemblyInfoInputs.cache
+C:\Users\nsara\source\repos\DotnetAuth\src\LearningJwt.Domain\obj\Debug\net8.0\DotnetAuth.Domain.AssemblyInfo.cs
+C:\Users\nsara\source\repos\DotnetAuth\src\LearningJwt.Domain\obj\Debug\net8.0\DotnetAuth.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nsara\source\repos\DotnetAuth\src\LearningJwt.Domain\obj\Debug\net8.0\DotnetAuth.Domain.dll
+C:\Users\nsara\source\repos\DotnetAuth\src\LearningJwt.Domain\obj\Debug\net8.0\refint\DotnetAuth.Domain.dll
+C:\Users\nsara\source\repos\DotnetAuth\src\LearningJwt.Domain\obj\Debug\net8.0\DotnetAuth.Domain.pdb
+C:\Users\nsara\source\repos\DotnetAuth\src\LearningJwt.Domain\obj\Debug\net8.0\ref\DotnetAuth.Domain.dll

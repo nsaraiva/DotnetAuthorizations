@@ -1,0 +1,12 @@
+C:\Users\nsara\source\repos\LearningJwt\src\LearningJwt.Domain\bin\Debug\net8.0\LearningJwt.Domain.deps.json
+C:\Users\nsara\source\repos\LearningJwt\src\LearningJwt.Domain\bin\Debug\net8.0\LearningJwt.Domain.dll
+C:\Users\nsara\source\repos\LearningJwt\src\LearningJwt.Domain\bin\Debug\net8.0\LearningJwt.Domain.pdb
+C:\Users\nsara\source\repos\LearningJwt\src\LearningJwt.Domain\obj\Debug\net8.0\LearningJwt.Domain.csproj.AssemblyReference.cache
+C:\Users\nsara\source\repos\LearningJwt\src\LearningJwt.Domain\obj\Debug\net8.0\LearningJwt.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsara\source\repos\LearningJwt\src\LearningJwt.Domain\obj\Debug\net8.0\LearningJwt.Domain.AssemblyInfoInputs.cache
+C:\Users\nsara\source\repos\LearningJwt\src\LearningJwt.Domain\obj\Debug\net8.0\LearningJwt.Domain.AssemblyInfo.cs
+C:\Users\nsara\source\repos\LearningJwt\src\LearningJwt.Domain\obj\Debug\net8.0\LearningJwt.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nsara\source\repos\LearningJwt\src\LearningJwt.Domain\obj\Debug\net8.0\LearningJwt.Domain.dll
+C:\Users\nsara\source\repos\LearningJwt\src\LearningJwt.Domain\obj\Debug\net8.0\refint\LearningJwt.Domain.dll
+C:\Users\nsara\source\repos\LearningJwt\src\LearningJwt.Domain\obj\Debug\net8.0\LearningJwt.Domain.pdb
+C:\Users\nsara\source\repos\LearningJwt\src\LearningJwt.Domain\obj\Debug\net8.0\ref\LearningJwt.Domain.dll
